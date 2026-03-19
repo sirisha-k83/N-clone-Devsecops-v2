@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./public/assets/Comp_Pict.png" alt="DevSecOps Banner" width="100%" height="100%">
+  <img src="./public/assets/Compl_Pict.png" alt="DevSecOps Banner" width="100%" height="100%">
   <br>
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
     <img src="./public/assets/netflix-logo.png" alt="Netflix Logo" width="100" height="32">
